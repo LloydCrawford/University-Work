@@ -16,7 +16,14 @@ img {
     transition: background-size 0.3s ease;
     filter: grayscale(1);
     transition: background-size 0.3s ease; 
-    
+}
+.container:hover{
+        filter: grayscale(1);
+        border-style: none;
+        border-radius: 100%;
+        transition: background-size 0.3s ease;
+        filter: grayscale(1);
+        transition: background-size 0.3s ease; 
 }
 
  body {
