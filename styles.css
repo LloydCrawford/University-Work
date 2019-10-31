@@ -1,0 +1,41 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    font-family: 'Lobster', cursive;
+    font-size: 1.5em;
+}
+h3{
+    margin: 1.5em
+}
+header{
+    width: 100%;
+    height: 200px;
+    float: left;
+    background-color: rgb(114, 102, 153);
+    color: black;
+}
+.centre{
+    text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+}
+.leftColumn{
+    width:50%;
+    height: 700px;
+    float: left;
+    background-color: #690;
+}
+.rightColumn{
+    width:50%;
+    height: 700px;
+    float: right;
+    background-color: #990;
+}
+footer{
+    margin-bottom: 0;
+    color: white;
+    width: 100%;
+    height: 200px;
+    float: left;
+    background-color: #2703de;
+    text-align: center;
+}
